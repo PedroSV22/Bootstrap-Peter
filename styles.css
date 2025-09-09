@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+}
+
+.card, .card-body{
+  background-color: beige;
+}
+.card-title {
+  color: lightcoral;
+}
+.input-group{
+  margin-top: 25px;
+}
+.form-floating{
+  text-align: center;
+  margin-top: 50px;
+  container; color: lightcoral;
+}
+
+.footer, #contact-me {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.github-logo {
+  text-align: center;
+  width: 10%;
+  height: 10%;
+  margin: 10px;
+}
+
+.linkedln-logo {
+  text-align: center;
+  width: 10%;
+  height: 10%;
+  margin: 10px;
+}
